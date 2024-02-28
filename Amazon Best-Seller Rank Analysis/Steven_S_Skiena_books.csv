@@ -1,0 +1,9 @@
+﻿ID,Title,Publication Date,ISBN,Hardcover Rank,Kindle Edition Rank,Paperback Rank,Amazon_average_rating,Amazon_number_of_ratings,Goodreads_average_rating,Goodreads_number_of_ratings,Hardcover Price,Kindle edition Price,Paperback Price
+1,The Algorithm Design Manual (Texts in Computer Science),10/5/20,978-3030542559,"97,036","263,993","116,103",4.4,347,4.3,"2,578",61.07,43.13,45
+2,The Data Science Design Manual (Texts in Computer Science),7/1/17,978-3319554433,"353,548","1,272,604","2,856,331",4.6,80,4.5,57,38.96,47.11,49.99
+3,"Calculated Bets: Computers, Gambling, and Mathematical Modeling to Win (Outlooks)",8/6/01,978-0521804264,"3,897,700","1,466,172","1,892,237",4.2,37,3.9,90,39.85,26.6,28
+4,Programming Challenges: The Programming Contest Training Manual (Texts in Computer Science),1/1/03,978-0387001630,,"807,779","1,181,087",4.3,46,4.1,128,,63.99,39
+5,Implementing Discrete Mathematics: Combinatorics And Graph Theory With Mathematica,1/21/90,978-0201509434,"6,257,046",,,3,2,,,14.36,,54
+6,Who's Bigger?: Where Historical Figures Really Rank,10/14/13,978-1107041370,,"1,984,631",,4,29,3.8,45,27.82,24.49,
+7,Computational Discrete Mathematics: Combinatorics and Graph Theory with Mathematica,12/8/03,978-0521806862,"4,792,580","2,893,874","4,722,544",3.7,9,,,9.17,59.99,59.99
+,,,,,,,,,,,,,

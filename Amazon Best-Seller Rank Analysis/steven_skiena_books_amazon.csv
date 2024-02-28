@@ -1,0 +1,9 @@
+rank,title,published_date,hardcover_price,kindle_price,paperback_price,rating,users_rated
+1,The Algorithm Design Manual (Texts in Computer Science),6 October 2020,2800.0,4235.0,3918.0,4.5,338.0
+2,The Data Science Design Manual (Texts in Computer Science),29 August 2017,4054.0,5192.0,3851.0,4.6,77.0
+3,The Algorithm Design Manual,5 April 2009,3403.0,4000.0,4000.0,4.4,572.0
+4,Programming Challenges: The Programming Contest Training Manual (Texts in Computer Science),18 April 2006,,5239.0,5239.0,4.3,31.0
+5,Desafíos de programación: El manual de entrenamiento para concursos de programación (Spanish Edition),14 June 2020,,0.0,3303.0,5.0,11.0
+6,"Calculated Bets: Computers, Gambling, and Mathematical Modeling to Win (Outlooks)",6 August 2001,3707.0,760.0,2267.0,4.2,30.0
+7,The Algorithm Design Manual,1 January 2007,,,2599.0,5.0,1.0
+8,Desafíos de programación,5 April 2012,,,,5.0,2.0
